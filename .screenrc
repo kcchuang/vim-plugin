@@ -1,0 +1,8 @@
+escape ^Gg
+vbell off
+startup_message off
+hardstatus alwayslastline " %-Lw%{= Bw}%n%f %t%{-}%+Lw %=| %0c:%s "
+defencoding utf8
+bind b encoding big5 utf8 # convert big5 to utf8
+bind u encoding utf8 utf8
+defscrollback 204800
