@@ -88,7 +88,7 @@
 "               width (in characters) you want for your explorer window with the
 "               following .vimrc variable (this was introduced in 6.3.0):
 "
-"                 let g:miniBufExplVSplit = 20   " column width in chars
+                 let g:miniBufExplVSplit = 18   " column width in chars
 "
 "               IN HORIZONTAL MODE:
 "               It is now (as of 6.1.1) possible to set a maximum height for
